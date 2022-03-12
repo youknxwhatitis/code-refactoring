@@ -57,9 +57,9 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg"); 
     background-size: cover;
-    background-position: center;
+    background-position: center; 
 }
 
 .float-left {
@@ -97,7 +97,7 @@ p {
     color: #ffffff;
 }
 /*
-Grabbed all the below elements and put it to one selector to make it less redundant
+Grabbed all the elements below and put it to one selector to make it less redundant
 
 #benefit-brand {
     margin-bottom: 32px;
