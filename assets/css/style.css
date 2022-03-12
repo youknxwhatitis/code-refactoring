@@ -152,7 +152,6 @@ Grabbed all the elements below and put it to one selector to make it less redund
     max-width: 150px;
 }
 /*
-Grabbed all image elements into a single selector.
 
 #benefit-lead img {
     display: block;
